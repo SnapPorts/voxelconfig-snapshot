@@ -6,6 +6,8 @@ plugins {
 
 val minecraftVersion = "26.3"
 val fabricVersion = "0.19.5"
+val minecraftVersion = "26.4-snapshot-1"
+val fabricVersion = "0.16.10"
 
 group = "de.voxelmap"
 version = "1.0.2"
